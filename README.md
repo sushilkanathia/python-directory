@@ -1,7 +1,7 @@
-# python-directory
-In this course we are discused how to work with directories in Python. 
+# python full course for beginners.
+In this course, we are discussed how to work with directories in Python. 
 a) HOW WE CAN CHECK THE CURRENT DIRECTORY.
 b) HOW WE CAN CHECK FILES AND SUBDIRECTORIES IN THE CURRENT DIRECTORY.
-c) HOW WE CAN RENAME IS FILE NAME.
+c) HOW WE CAN RENAME IS FILENAME.
 d) HOW WE CAN REMOVE FILE FROM THE DIRECTORY.
 e) HOW WE CAN CREATE A NEW DIRECTORY.
